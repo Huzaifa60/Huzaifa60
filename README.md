@@ -1,5 +1,5 @@
 <!-- ===================== HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Huzaifa%20Ansari&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI-Augmented%20Full%20Stack%20Developer%20%7C%20WordPress%20and%20Shopify&descSize=18&descAlignY=57" alt="Huzaifa Ansari" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Huzaifa%20Ansari&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Huzaifa Ansari" />
 
 <div align="center">
 
