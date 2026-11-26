@@ -1,14 +1,14 @@
 <!-- ===================== HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Huzaifa%20Ansari&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=WordPress%20and%20Shopify%20Developer%20%7C%20Frontend%20%7C%20Automation&descSize=18&descAlignY=57" alt="Huzaifa Ansari" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Huzaifa%20Ansari&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI-Augmented%20Full%20Stack%20Developer%20%7C%20WordPress%20and%20Shopify&descSize=18&descAlignY=57" alt="Huzaifa Ansari" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=WordPress+Developer;Shopify+Developer+(Liquid);Frontend+Engineer+(React+%2B+Tailwind);AI+%26+Workflow+Automation+Specialist;Conversion+Tracking+Expert" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=AI-Augmented+Full+Stack+Developer;WordPress+Developer;Shopify+Developer+(Liquid);Frontend+Engineer+(React+%2B+Tailwind);AI+%26+Workflow+Automation+Specialist;Conversion+Tracking+Expert" alt="Typing animation" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/huzaifa-ansari-b7012329a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-<a href="mailto:huzaifaansari662@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=huzaifaansari662@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Huzaifa60?tab=followers"><img src="https://img.shields.io/github/followers/Huzaifa60?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub followers" /></a>
 <img src="https://komarev.com/ghpvc/?username=Huzaifa60&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" alt="Profile views" />
 
@@ -111,20 +111,6 @@ const huzaifa = {
 
 ---
 
-## 💼 Experience
-
-**WordPress, Shopify & Frontend Developer** · WebSensePro · *Dec 2024 — Present*
-
-- Build and maintain responsive, high-performance frontends for live client sites
-- Customise WordPress themes and Shopify storefronts to improve conversions
-- Optimise site speed and handle malware cleanup and security hardening
-- Set up conversion tracking and automate lead routing with n8n, Zapier and GoHighLevel
-- Own tasks end to end: client communication, requirements, execution and approval
-
-🎓 **BS Software Engineering** · Virtual University of Pakistan · *2022 — 2026*
-
----
-
 ## 🤝 Open Source Contributions
 
 <!-- CONTRIBUTIONS:START -->
@@ -180,7 +166,7 @@ const huzaifa = {
 
 Need a fast website, a Shopify store, clean tracking or an automation that saves hours?
 
-<a href="mailto:huzaifaansari662@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-38BDF8?style=for-the-badge&logo=maildotru&logoColor=white" alt="Hire me" /></a>
+<a href="https://wa.me/923182263709"><img src="https://img.shields.io/badge/Hire_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Hire me" /></a>
 <a href="https://www.linkedin.com/in/huzaifa-ansari-b7012329a/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
 
 ⭐ *Thanks for visiting my profile!*
