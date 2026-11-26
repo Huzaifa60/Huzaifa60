@@ -148,18 +148,6 @@ const huzaifa = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Huzaifa60/Huzaifa60/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Huzaifa60/Huzaifa60/output/github-snake.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/Huzaifa60/Huzaifa60/output/github-snake.svg" alt="Snake eating my contributions" />
-  </picture>
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 Let's Work Together
